@@ -1,2 +1,2 @@
 # personal
-SQL and Python Scripts for all purposes
+Tincho's SQL and Python Scripts for all purposes
